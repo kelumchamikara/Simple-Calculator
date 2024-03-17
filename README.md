@@ -24,4 +24,4 @@ This is a simple calculator application built using Python and Tkinter GUI libra
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/kelumchamikara/calculator.git
