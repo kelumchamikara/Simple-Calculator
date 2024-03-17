@@ -1,5 +1,6 @@
 """
 # Simple Python Calculator
+![Screenshot 2024-03-17 115908](https://github.com/kelumchamikara/Simple-Calculator/assets/153359899/795b6541-eb1d-4929-9d65-abcdeb7ccdbe)
 
 This is a simple calculator application built using Python and Tkinter GUI library. It allows users to perform basic arithmetic calculations.
 
